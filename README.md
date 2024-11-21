@@ -1,7 +1,7 @@
 
 # 🌟 Lunaria - A Multifunctional Discord Bot 🌟
 
-![Lunaria Banner](./assets/banner.png)
+![Lunaria Banner](./images/banner.png)
 
 ---
 
@@ -36,7 +36,7 @@ Lunariaは、Discordサーバーを次のレベルに引き上げるために設
 ---
 
 ## 🧙‍♀️ **モチーフキャラ - ルナリア**
-![Lunaria Icon](./assets/lunaria_icon.png)
+![Lunaria Icon](./images/lunaria_icon.png)
 
 - **名前**: ルナリア (Lunaria)
 - **年齢**: 17歳
@@ -46,7 +46,7 @@ Lunariaは、Discordサーバーを次のレベルに引き上げるために設
   - 彼女の杖は、氷の結晶から作られており、星と氷の魔力を象徴しています。
 - **ビジュアル**:
   - 以下はルナリアの三面図です。
-![Lunaria Three-View](./assets/lunaria_threeview.png)
+![Lunaria Three-View](./images/lunaria_threeview.png)
 
 ---
 
@@ -85,10 +85,10 @@ Lunariaは、Discordサーバーを次のレベルに引き上げるために設
 ---
 
 ## 🎥 **スクリーンショットとデモ**
-![Dashboard Screenshot](./assets/dashboard.png)
+![Dashboard Screenshot](./images/dashboard.png)
 > ダッシュボード例
 
-![Bot Interaction GIF](./assets/bot_interaction.gif)
+![Bot Interaction GIF](./images/bot_interaction.gif)
 > ボットとの対話例
 
 ---
