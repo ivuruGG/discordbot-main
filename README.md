@@ -1,7 +1,7 @@
 
 # 🌟 Lunaria - A Multifunctional Discord Bot 🌟
 
-![Lunaria Banner](./images/banner.png)
+![Lunaria Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Lunaria&fontSize=40&fontAlign=50&fontAlignY=50&desc=Your%20Magical%20Discord%20Bot&descAlign=70&descAlignY=60&height=200)
 
 ---
 
@@ -29,7 +29,7 @@ Lunariaは、Discordサーバーを次のレベルに引き上げるために設
 
 ## 🌟 **特徴**
 - 🎨 **AI連携**: ChatGPTを活用した自然対話や画像生成。
-- 🎮 **エンターテイメント**: クイズ、音楽再生、ミニゲーム。
+- 🎮 **エンターテインメント**: クイズ、音楽再生、ミニゲーム。
 - 📅 **自動化機能**: 毎日の記念日通知やスケジュール設定。
 - 🔧 **リアルタイム編集**: 埋め込みメッセージをダッシュボードで直感的に操作。
 - 📊 **統計機能**: サーバーアクティビティの分析と可視化。
@@ -87,11 +87,11 @@ lunaria-bot/
 ---
 
 ## 🛠️ **技術スタック**
-- **フロントエンド**: React, TailwindCSS
-- **バックエンド**: Node.js, Express
-- **Bot**: Discord.js
-- **データベース**: MongoDB
-- **AI API**: OpenAI (ChatGPT, DALL-E)
+- <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="25"/> **フロントエンド**: React, TailwindCSS
+- <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="25"/> **バックエンド**: Node.js, Express
+- <img src="https://cdn.worldvectorlogo.com/logos/discord.svg" alt="Discord.js" width="25"/> **Bot**: Discord.js
+- <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="25"/> **データベース**: MongoDB
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/OpenAI_Logo.svg/768px-OpenAI_Logo.svg.png" alt="OpenAI" width="25"/> **AI API**: OpenAI (ChatGPT, DALL-E)
 
 ---
 
@@ -130,9 +130,10 @@ lunaria-bot/
 ---
 
 ## 👩‍💻 **開発者について**
-- **名前**: [Your Name](https://your-portfolio-link.com)
-- **Twitter**: [@YourTwitter](https://twitter.com/YourTwitter)
-- **GitHub**: [YourGitHub](https://github.com/YourGitHub)
+- **名前**: [いゔる。(ivuruGG)](https://ivurugg.jp)
+  - <img src="https://cdn.worldvectorlogo.com/logos/x.svg" alt="X" width="20"/> **X**: [@ivuruGG](https://x.com/ivurugg)
+  - <img src="https://cdn.worldvectorlogo.com/logos/instagram-glyph-1.svg" alt="Instagram" width="20"/> **Instagram**: [@ivurugg](https://www.instagram.com/ivurugg/)
+  - <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="GitHub" width="20"/> **GitHub**: [ivurugg](https://github.com/ivurugg)
 
 ---
 
@@ -140,3 +141,5 @@ lunaria-bot/
 このプロジェクトは [MIT ライセンス](./LICENSE) のもとで提供されています。
 
 ---
+
+![Lunaria Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
