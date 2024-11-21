@@ -9,11 +9,12 @@
 1. [プロジェクト概要](#プロジェクト概要)
 2. [特徴](#特徴)
 3. [モチーフキャラ - ルナリア](#モチーフキャラ---ルナリア)
-4. [技術スタック](#技術スタック)
-5. [セットアップ方法](#セットアップ方法)
-6. [スクリーンショットとデモ](#スクリーンショットとデモ)
-7. [開発者について](#開発者について)
-8. [ライセンス](#ライセンス)
+4. [プロジェクトツリー](#プロジェクトツリー)
+5. [技術スタック](#技術スタック)
+6. [セットアップ方法](#セットアップ方法)
+7. [スクリーンショットとデモ](#スクリーンショットとデモ)
+8. [開発者について](#開発者について)
+9. [ライセンス](#ライセンス)
 
 ---
 
@@ -36,7 +37,7 @@ Lunariaは、Discordサーバーを次のレベルに引き上げるために設
 ---
 
 ## 🧙‍♀️ **モチーフキャラ - ルナリア**
-![Lunaria Icon](./images/lunaria_icon.png)
+<img src="./images/lunaria_icon.png" alt="Lunaria Icon" width="150" />
 
 - **名前**: ルナリア (Lunaria)
 - **年齢**: 17歳
@@ -47,6 +48,41 @@ Lunariaは、Discordサーバーを次のレベルに引き上げるために設
 - **ビジュアル**:
   - 以下はルナリアの三面図です。
 ![Lunaria Three-View](./images/lunaria_threeview.png)
+
+---
+
+## 🗂️ **プロジェクトツリー**
+```plaintext
+lunaria-bot/
+├── src/
+│   ├── commands/
+│   │   ├── admin.js        # 管理者向けコマンド
+│   │   ├── fun.js          # エンターテインメントコマンド
+│   │   ├── moderation.js   # モデレーションコマンド
+│   │   └── utilities.js    # ユーティリティコマンド
+│   ├── events/
+│   │   ├── ready.js        # Bot起動時のイベント
+│   │   ├── message.js      # メッセージイベント
+│   │   └── guild.js        # サーバー関連イベント
+│   ├── utils/
+│   │   ├── logger.js       # ログ管理
+│   │   ├── database.js     # データベース操作
+│   │   └── apiHandler.js   # APIリクエスト管理
+│   ├── bot.js              # メインBotスクリプト
+│   └── config.json         # 設定ファイル
+├── dashboard/
+│   ├── public/             # 静的リソース
+│   ├── src/                # ダッシュボードフロントエンド
+│   │   ├── components/     # Reactコンポーネント
+│   │   ├── pages/          # 各ページ
+│   │   └── App.js          # エントリポイント
+│   ├── package.json        # フロントエンド依存関係
+│   └── tailwind.config.js  # Tailwind設定
+├── .env                    # 環境変数
+├── package.json            # サーバー依存関係
+├── LICENSE                 # ライセンス
+└── README.md               # プロジェクト概要
+```
 
 ---
 
