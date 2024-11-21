@@ -1,6 +1,6 @@
 # 🌟 多機能Discord Bot - ルナリア（Lunaria）🌟
 
-![Animated Banner](path/to/animated-banner.gif)
+![Ice Magic Animated Banner](path/to/ice-magic-animated-banner.gif)
 
 ## 🎯 概要
 **ルナリア（Lunaria）**は、あなたのDiscordサーバーを次のレベルに引き上げる多機能Botです。  
@@ -88,83 +88,76 @@ discord-bot/
 ├── .env                   # 環境変数
 ├── package.json           # サーバー依存関係
 ├── README.md              # このファイル
-```
 
----
+🚀 インストール方法
 
-## 🚀 インストール方法
+	1.	リポジトリをクローンします。
 
-1. リポジトリをクローンします。
-   ```bash
-   git clone https://github.com/your-repo/discord-bot.git
-   cd discord-bot
-   ```
+git clone https://github.com/your-repo/discord-bot.git
+cd discord-bot
 
-2. 必要な依存パッケージをインストールします。
-   ```bash
-   npm install
-   ```
 
-3. 環境変数を設定します。
-   `.env` ファイルを作成し、以下を追加:
-   ```env
-   DISCORD_TOKEN=your_discord_bot_token
-   CLIENT_ID=your_discord_client_id
-   ```
+	2.	必要な依存パッケージをインストールします。
 
-4. ボットを起動します。
-   ```bash
-   npm start
-   ```
+npm install
 
----
 
-## 🎮 主な機能
-### 🔷 AI機能
-- **ChatGPT**: 質問応答やストーリー生成。
-- **画像生成**: お題に基づくイラスト作成。
-- **感情分析**: メッセージの感情を解析し応答。
+	3.	環境変数を設定します。
+.env ファイルを作成し、以下を追加:
 
-### 🛡️ サーバー管理
-- **自動モデレーション**: 不適切な発言やスパム削除。
-- **ロール管理**: 条件付きのロール付与。
-- **ログ記録**: 入退室やメッセージ操作の記録。
+DISCORD_TOKEN=your_discord_bot_token
+CLIENT_ID=your_discord_client_id
 
-### 🎉 エンタメ
-- ミニゲーム（クイズ、RPG風ゲーム）。
-- 名言ジェネレーター。
-- 音楽再生（YouTube、Spotify対応）。
 
----
+	4.	ボットを起動します。
 
-## 📈 使用例
-- **/help**: 利用可能なコマンド一覧を表示。
-- ダッシュボードにログインし、サーバー設定をカスタマイズ。
+npm start
 
----
+🎮 主な機能
 
-## 👩‍💻 開発者について
+🔷 AI機能
+
+	•	ChatGPT: 質問応答やストーリー生成。
+	•	画像生成: お題に基づくイラスト作成。
+	•	感情分析: メッセージの感情を解析し応答。
+
+🛡️ サーバー管理
+
+	•	自動モデレーション: 不適切な発言やスパム削除。
+	•	ロール管理: 条件付きのロール付与。
+	•	ログ記録: 入退室やメッセージ操作の記録。
+
+🎉 エンタメ
+
+	•	ミニゲーム（クイズ、RPG風ゲーム）。
+	•	名言ジェネレーター。
+	•	音楽再生（YouTube、Spotify対応）。
+
+📈 使用例
+
+	•	/help: 利用可能なコマンド一覧を表示。
+	•	ダッシュボードにログインし、サーバー設定をカスタマイズ。
+
+👩‍💻 開発者について
+
 このプロジェクトは、次世代のDiscord Botの可能性を広げるために情熱を持った開発者によって作られました。
 
-### SNSリンク
-- **GitHub**: [github.com/your-profile](https://github.com/your-profile)
-- **Twitter**: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-- **ポートフォリオ**: [your-portfolio.com](https://your-portfolio.com)
+SNSリンク
 
----
+	•	GitHub: github.com/your-profile
+	•	Twitter: @your-twitter-handle
+	•	LinkedIn: linkedin.com/in/your-profile
+	•	ポートフォリオ: your-portfolio.com
 
-## 📝 キャラクターストーリー
-「ルナリア」は、星々が輝く冷たい夜空の下で育った少女。  
+📝 キャラクターストーリー
+
+「ルナリア」は、星々が輝く冷たい夜空の下で育った少女。
 幼い頃から氷の魔法に親しみ、孤独な時間を星を眺めながら過ごしてきた彼女は、人々にもっと温かさと繋がりを届けたいと考えるようになりました。
 
 彼女の杖は、凍てつく寒さを操るだけでなく、星の光を集めて眩い魔法を生み出します。その力で仲間を守り、笑顔を広げることが彼女の使命です。
 
----
+📜 ライセンス
 
-## 📜 ライセンス
 このプロジェクトはMITライセンスのもとで提供されています。
 
----
-
-![Animated Footer](path/to/animated-footer.gif)
+コピー＆ペーストしてREADME.mdに利用してください！画像パスを適切に置き換えてください。
