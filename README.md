@@ -1,5 +1,5 @@
 
-# 🌟 Lunaria - A Multifunctional Discord Bot 🌟
+# 🌟 Lunaria - A Multifunctional Discord Bot 🌟(開発中)
 
 ![Lunaria Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Lunaria&fontSize=40&fontAlign=50&fontAlignY=50&desc=Your%20Magical%20Discord%20Bot&descAlign=70&descAlignY=60&height=200)
 
