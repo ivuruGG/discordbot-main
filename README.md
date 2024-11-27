@@ -39,7 +39,7 @@ Lunariaは、Discordサーバーを次のレベルに引き上げるために設
 ## 🧙‍♀️ **モチーフキャラ - ルナリア**
 <img src="./images/lunaria_icon.png" alt="Lunaria Icon" width="150" />
 
-- **名前**: ルナリア (Lunaria)
+- **名前**: ルナリア (Lunaria)　
 - **年齢**: 17歳
 - **属性**: 氷魔法
 - **設定**:
